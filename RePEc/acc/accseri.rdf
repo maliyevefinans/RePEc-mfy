@@ -1,1 +1,12 @@
-
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Finance Letters (Maliye ve Finans Yazıları)
+Description: Archive of Journal of Finance Letters (Maliye ve Finans Yazıları)
+Provider-Name: Maliye ve Finans Yazıları Yayıncılık Ltd. Şti.
+Provider-Homepage: https://dergipark.org.tr/en/pub/mfy
+Maintainer-Name: Süleyman Kale
+Maintainer-Email: maliyevefinans@temar.org
+Type: ReDIF-Article
+Handle: RePEc:acc:malfin
+Editor-Name: Süleyman Kale
+Editor-Email: maliyevefinans@temar.org
+ISSN: 3062-2565
